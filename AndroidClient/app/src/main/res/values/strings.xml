@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Control Hogar</string>
+    <string name="action_settings">Conf</string>
+    <string name="speech_prompt"> Ingresa el comando&#8230;</string>
+    <string name="speech_not_supported">Tú dispositivo no permite comandos de voz</string>
+    <string name="tap_on_mic">Presiona y luego ingresa el comando</string>
+    <color name="white">#ffffff</color>
+    <color name="gray">#31244e</color>
+    <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_end">#6b394c</color>
+</resources>
